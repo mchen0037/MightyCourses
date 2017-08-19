@@ -1,4 +1,4 @@
-The app is fully functional and works, but needs some added functionality if I actually want people to use it:
+ The app is fully functional and works, but needs some added functionality if I actually want people to use it:
 
 -Better UI design (make it pretty)
 -Better user experience
@@ -13,6 +13,6 @@ The app is fully functional and works, but needs some added functionality if I a
 -Future functionality
   -Setting a "main schedule" to distinguish between your own schedule and schedule of friends
   -Capability to compare (ideally friends') schedules to current time to determine availability
-  -Using SQL database hosted by Azure instead of internal storage
+  -Using SQL database hosted by Azure instead of internal storage, mapping schedules to unique codes so that people can access their friends' schedules with a code
   -Making schedules deletable lol
   -Put it on the PlayStore
