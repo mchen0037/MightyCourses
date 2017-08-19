@@ -1,0 +1,18 @@
+The app is fully functional and works, but needs some added functionality if I actually want people to use it:
+
+-Better UI design (make it pretty)
+-Better user experience
+  -Having a way to clear TextViews when you click on them
+  -AM/PM button
+-Accounting for human error
+  -people (like me) are good at make mistakes when they input information. There is currently no way to go back to a previous course if somebody inputs the wrong info.
+  -logic errors
+      -Start Time must be smaller than End Time
+      -Classes can not be at the same time
+      -Classes (probably) can not have the same name
+-Future functionality
+  -Setting a "main schedule" to distinguish between your own schedule and schedule of friends
+  -Capability to compare (ideally friends') schedules to current time to determine availability
+  -Using SQL database hosted by Azure instead of internal storage
+  -Making schedules deletable lol
+  -Put it on the PlayStore
