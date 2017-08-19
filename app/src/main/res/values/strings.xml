@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MightyCourses</string>
+    <string name="title">MIGHTY COURSES</string>
+    <string name="CreateNew">Create New Schedule</string>
+    <string name="findschedule">FIND A SCHEDULE</string>
+    <string name="CourseName">Name of Course</string>
+    <string name="CourseStartTime">11:00</string>
+    <string name="CourseEndTime">12:00</string>
+</resources>
